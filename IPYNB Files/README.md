@@ -11,5 +11,5 @@ This folder contains Jupyter Notebook files used for developing, training, and e
 4. mobilenet_model.ipynb
 - This notebook covers the MobileNetV2 architecture, designed for mobile and embedded vision applications with a focus on efficiency without compromising performance.
 
-[Here is a GDrive link containing the IPYNB files.](https://drive.google.com/drive/folders/1xX5i69KIXy6CGuc4G6oNyDNDEDv8dOqc?usp=sharing)
+[Here is a GDrive link containing the IPYNB files.](https://drive.google.com/drive/folders/1xX5i69KIXy6CGuc4G6oNyDNDEDv8dOqc?usp=sharing) <br>
 [Here is the link containing the saved models](https://drive.google.com/drive/folders/1_r-qmOQHCdXPCs8EJhy8PITmYfHP_boq?usp=sharing)
