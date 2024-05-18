@@ -1,0 +1,4 @@
+# Dataset
+Our custom dataset comprises 3,617 images of four specific ant species: fire ants, ghost ants, weaver ants, and little black ants. Sourced primarily from Google Images, the dataset is divided into training (3,165 images), validation (302 images), and testing (150 images) sets. Each image is annotated with its corresponding species label. To enhance model generalization, we applied various augmentation techniques, including flips, rotations, brightness and saturation adjustments, rescaling, and noise addition. This enriched dataset ensures a comprehensive representation of each species in diverse environmental contexts, facilitating robust and accurate ant species identification.
+
+[Link to Dataset](https://drive.google.com/drive/folders/14os22RDsbu52OpKBlHvlMzfVnBV9K03t?usp=sharing)
