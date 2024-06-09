@@ -17,7 +17,7 @@ The custom dataset comprises 7,334 images of the four ant species, sourced prima
 3. Performance Evaluation: Accuracy and loss metrics assessed on training, validation, and test datasets.
 4. Model Deployment: Streamlit is used for deploying the final model, providing a user-friendly interface.
 # Results
-- Base Model: Test accuracy of 94%, demonstrating robust performance.
-- DenseNet121: Perfect training and validation accuracy, with a test accuracy of 94%.
-- EfficientNetB0: Underperformed with a test accuracy of 29.33%.
-- MobileNetV2: High performance with a test accuracy of 93.33%.
+- Base Model: Test accuracy of 95.50%, demonstrating robust performance.
+- DenseNet121: 98.44% training and 96.43% validation accuracy, with a test accuracy of 94%.
+- EfficientNetB0: Underperformed with a test accuracy of 25%.
+- MobileNetV2: High performance with a test accuracy of 93.25%.
