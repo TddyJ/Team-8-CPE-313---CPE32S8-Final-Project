@@ -10,7 +10,7 @@ This repository contains the resources for our research on classifying ant speci
 - Evaluation Metrics: Detailed performance metrics including accuracy, loss, precision, recall, and F1-score.
 - Deployment: The model is deployed using Streamlit for easy access and practical use.
 # Dataset
-The custom dataset comprises 3,617 images of the four ant species, sourced primarily from Google Images. The dataset is split into training (3,165 images), validation (302 images), and test (150 images) sets.
+The custom dataset comprises 7,334 images of the four ant species, sourced primarily from Google Images. The dataset is split into training (6,330 images), validation (604 images), and test (400 images) sets.
 # Methodology
 1. Image Pre-processing: Images resized to 150x150 pixels, augmented with flips, rotations, brightness adjustments, and noise.
 2. Model Training: Comparison of four models to determine the best performing architecture.
